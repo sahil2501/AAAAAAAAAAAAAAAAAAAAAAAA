@@ -1,0 +1,12 @@
+#canvas1 {
+    border-color: darkviolet;
+    border-width: 10px;
+    border-style: double;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.nkzmXsnOFNgX2QFTYSSDvwHaE8&pid=Api&P=0&w=243&h=163");
+}
+body {
+    text-align: center;
+}
+button {
+    font-size: 20px;
+}
